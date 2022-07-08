@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm abhay sharma</h1>
 <h3 align="center">A passionate web/app developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/abhaysh25393976" target="blank"><img src="https://img.shields.io/twitter/follow/abhaysh25393976?logo=twitter&style=for-the-badge" alt="abhaysh25393976" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abhaysh25393976" target="blank"><img src="https://img.shields.io/twitter/follow/abhaysh25393976?logo=twitter&style=for-the-badge" alt="abhaysh25393976" /></a><a href="https://instagram.com/itz_mr_abhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_mr_abhay" height="30" width="40" /></a> </p>
 
 - 🔭 I’m currently working on **flutter,android development**
 
