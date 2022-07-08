@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhaysh25393976" target="blank"><img src="https://img.shields.io/twitter/follow/abhaysh25393976?logo=twitter&style=for-the-badge" alt="abhaysh25393976" /></a> </p>
 
-- 🔭 I’m currently working on **my own project**
+- 🔭 I’m currently working on **flutter,android development**
 
-- 🌱 I’m currently learning **Product development,Figma**
+- 🌱 I’m currently learning **product development,android development**
 
 - 👯 I’m looking to collaborate on **android app**
 
