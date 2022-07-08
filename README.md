@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **flutter,android development**
 
-- 🌱 I’m currently learning **product development,android development**
+- 🌱 I’m currently learning **product development,android development and flutter**
 
 - 👯 I’m looking to collaborate on **android app**
 
